@@ -1,11 +1,8 @@
 Rails.application.routes.draw do
 
-  resources :apps, controller: :app_data, constraints: lambda { |req|
-    ["220.133.42.141"].include?(req.remote_ip)}
-  resources :items,constraints: lambda { |req|
-    ["220.133.42.141"].include?(req.remote_ip)}
-  resources :lists,constraints: lambda { |req|
-    ["220.133.42.141"].include?(req.remote_ip)}
+  resources :apps, controller: :app_data
+  resources :items
+  resources :lists
 
   put "image", to: "image#create"
 end
