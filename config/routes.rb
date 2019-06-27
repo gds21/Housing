@@ -6,3 +6,4 @@ Rails.application.routes.draw do
 
   put "image", to: "image#create"
 end
+∏
