@@ -3,7 +3,7 @@ class ListsController < ApplicationController
   protect_from_forgery :except => [:create]
 
   def index
-    render json: List.all
+    render json: List.order(:id).all
   end
 
   def create

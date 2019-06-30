@@ -2,7 +2,7 @@ class ItemsController < ApplicationController
   protect_from_forgery :except => [:create]
 
   def index
-    render json: Item.all
+    render json: Item.order(:id).all
   end
 
   def create

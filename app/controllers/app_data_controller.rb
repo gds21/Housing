@@ -3,7 +3,7 @@ class AppDataController < ApplicationController
   protect_from_forgery :except => [:create]
 
   def index
-    render json: App.all
+    render json: App.order(:id).all
   end
 
   def create
