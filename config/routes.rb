@@ -4,6 +4,5 @@ Rails.application.routes.draw do
   resources :items
   resources :lists
 
-  put "image", to: "image#create"
+  resources "image", to: "image#create"
 end
-∏
