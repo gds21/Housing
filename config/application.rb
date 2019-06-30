@@ -16,12 +16,8 @@ module Housing
     # -- all .rb files in that directory are automatically loaded.
     config.time_zone = 'Taipei'
     config.active_record.default_timezone = :local
-
-    config.middleware.insert_before 0, Rack::Cors do
-      allow do
-        origins '*'
-        resource '*', :headers => :any, :methods => [:get, :post, :patch, :delete ,:options]
-      end
-    end
+    config.action_dispatch.default_headers = {
+        'Referrer-Policy' => 'unsafe-url'
+    }
   end
 end
