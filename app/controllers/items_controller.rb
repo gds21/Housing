@@ -6,7 +6,7 @@ class ItemsController < ApplicationController
   end
 
   def show
-    render json: Item.find(:id)
+    render json: Item.find(params[:id])
   end
 
   def create
