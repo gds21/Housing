@@ -5,6 +5,10 @@ class ItemsController < ApplicationController
     render json: Item.order(:id).all
   end
 
+  def show
+    render json: Item.find(:id)
+  end
+
   def create
     a = Item.create(json_data: strong_param)
     render json: a

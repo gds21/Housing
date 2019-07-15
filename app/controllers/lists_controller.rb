@@ -6,6 +6,10 @@ class ListsController < ApplicationController
     render json: List.order(:id).all
   end
 
+  def show
+    render json: List.find(:id)
+  end
+
   def create
     a = List.create(json_data: strong_param)
     render json: a
