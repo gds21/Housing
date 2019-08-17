@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b064ba-10f1-4b3f-b10c-0fbfbd86f936" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/c4c506e524edc7cc5534.js" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/c4c506e524edc7cc5534.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/components/image-uploader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/components/image-uploader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/01c10ff389c2ef575898.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/38222b6f9d2ba995ffca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/6589caece7e274dbc200.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/711154acab9eb14f4dc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/c4c506e524edc7cc5534.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/c76c05a6d1ade6f6cab3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/_nuxt/dacb34dd5eca5f89e452.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/layouts/default.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/pages/templates/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-backstage/pages/templates/_id.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage/dist/_nuxt/311f4510e8aeb4e1efae.js" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage/dist/_nuxt/311f4510e8aeb4e1efae.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage/dist/_nuxt/4344a5d577c94b1d80b6.js" beforeDir="false" afterPath="$PROJECT_DIR$/housing-founder-customer-checklist-front-stage/dist/_nuxt/4344a5d577c94b1d80b6.js" afterDir="false" />
@@ -30,46 +46,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/app.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/item.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/list.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/lists_controller.rb">
+        <entry file="file://$PROJECT_DIR$/app/models/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="197">
+              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -77,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/app_data_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="420">
               <caret line="28" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
@@ -86,8 +84,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/items_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/image_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -95,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
@@ -104,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20190518161126_add_json_data_to_apps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="30">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -120,7 +145,6 @@
       <list>
         <option value="$PROJECT_DIR$/db/migrate/20190518161126_add_json_data_to_apps.rb" />
         <option value="$PROJECT_DIR$/app/controllers/app_data_controller_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/app.rb" />
         <option value="$PROJECT_DIR$/app/controllers/app_data_controller.rb" />
         <option value="$PROJECT_DIR$/app/uploaders/image_uploader.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190518173725_create_images.rb" />
@@ -128,14 +152,17 @@
         <option value="$PROJECT_DIR$/app/controllers/image_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190519063133_create_items.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190519063423_add_json_to_items.rb" />
-        <option value="$PROJECT_DIR$/app/models/item.rb" />
         <option value="$PROJECT_DIR$/app/controllers/item_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/items_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190519065013_add_json_data_to_lists.rb" />
-        <option value="$PROJECT_DIR$/app/models/list.rb" />
         <option value="$PROJECT_DIR$/app/controllers/lists_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/items_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/models/item.rb" />
+        <option value="$PROJECT_DIR$/app/models/list.rb" />
+        <option value="$PROJECT_DIR$/app/models/app.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
       </list>
     </option>
   </component>
@@ -176,6 +203,11 @@
             <path>
               <item name="housing" type="b2602c69:ProjectViewProjectNode" />
               <item name="housing" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="housing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="housing" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -206,16 +238,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -343,17 +378,20 @@
       <workItem from="1558234502084" duration="46000" />
       <workItem from="1558234575273" duration="31000" />
       <workItem from="1558234643709" duration="2506000" />
+      <workItem from="1563197952366" duration="521000" />
+      <workItem from="1563454318823" duration="1356000" />
+      <workItem from="1565852938933" duration="38000" />
+      <workItem from="1565852994109" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7953000" />
+    <option name="totallyTimeSpent" value="10397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,9 +404,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5857143" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25816327" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -381,9 +419,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/uploads/nil_class/4f6f990c-c8d3-4412-99e3-3017d7525b69.jpg" />
     <entry file="file://$PROJECT_DIR$/db/migrate/20190518171707_create_images.rb" />
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/image_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -426,48 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/image_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/app_data_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20190518161126_add_json_data_to_apps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/list.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20190519065013_add_json_data_to_lists.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -475,31 +468,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/lists_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="8" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/list.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/app_data_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/items_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/lists_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/image_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20190518161126_add_json_data_to_apps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="197">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

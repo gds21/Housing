@@ -19,6 +19,8 @@ module Housing
       end
     end
 
+
+
     config.action_dispatch.default_headers = {
         'Referrer-Policy' => 'unsafe-url'
     }
